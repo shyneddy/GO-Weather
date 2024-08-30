@@ -4,7 +4,7 @@
 <ol>
     <li><strong>B1:</strong> Clone source code về máy.</li>
     <li><strong>B2:</strong> Tạo file <code>.env</code> và dán nội dung đã comment ở file <code>.env.example</code>.</li>
-    <li><strong>B3:</strong> Chạy lệnh: <code>composer install</code> để cài đặt các phụ thuộc.</li>
+    <li><strong>B3:</strong> Chạy lệnh: <code>composer install</code> và <code>npm install</code> để cài đặt các phụ thuộc.</li>
     <li><strong>B4:</strong> Chạy lệnh: <code>php artisan migrate</code> để tạo database.</li>
     <li><strong>B5:</strong> Chạy lệnh: <code>php artisan serve</code> để khởi động máy chủ.</li>
     <li><strong>B6:</strong> Chạy lệnh: <code>npm run dev</code> để xây dựng, biên dịch frontend.</li>
