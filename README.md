@@ -1,5 +1,6 @@
 <h1>CODE TEST: GO-WEATHER</h1>
 <p><strong>Công nghệ sử dụng:</strong> Laravel 10.x</p>
+<p><strong>Database:</strong> MySQL</p>
 <h2>Hướng dẫn chạy code trên localhost:</h2>
 <ol>
     <li><strong>B1:</strong> Clone source code về máy.</li>
