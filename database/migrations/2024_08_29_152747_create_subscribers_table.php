@@ -14,7 +14,7 @@ return new class extends Migration
         Schema::create('subscribers', function (Blueprint $table) {
             $table->id();
             $table->unsignedBigInteger('user_id');
-            $table->string('location')->nullable();
+            $table->string('location');
             $table->timestamps();
         });
     }
